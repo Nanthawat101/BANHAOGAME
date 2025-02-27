@@ -22,7 +22,7 @@
 ### การดาวน์โหลดเกม
 
 คลิกที่ลิงก์ด้านล่างเพื่อดาวน์โหลดเกม BANHAO:
-[ดาวน์โหลดเกม BANHAO](https://drive.google.com/drive/folders/1SAw1d5d29DANKv-27__JgZ_QD-wFvN9Y?usp=sharing) (กรุณาแทนที่ # ด้วยลิงก์ที่ดาวน์โหลดได้)
+[ดาวน์โหลดเกม BANHAO](https://drive.google.com/drive/folders/1SAw1d5d29DANKv-27__JgZ_QD-wFvN9Y?usp=sharing)
 
 ### การติดตั้ง
 1. ดาวน์โหลดไฟล์เกมจากลิงก์ข้างต้น
